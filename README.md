@@ -1,35 +1,310 @@
-![welcome-top](https://user-images.githubusercontent.com/69431357/180352301-8a6c42dc-3328-40fc-a3e8-d0360904b1c6.gif)
+# Kory Kaai
 
-<h1 align="left">Hi 👋, I'm Kory</h1>
-<h3 align="left">A passionate Full-Stack developer</h3>
+**Technical Project Manager | IT Project Manager | Systems Implementation**
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/69431357/181859639-dfae66e1-7f99-4518-b7be-1771bd783a7d.gif" width="400px")
-</p>
+I manage web, software, infrastructure, and business systems projects across finance, federal, healthcare, and B2B environments.
 
-<p align="left">
-  <a href="http://twitter.com/korykaai">
-    <img src="https://img.shields.io/twitter/follow/korykaai?color=Green&label=FOLLOW%20ME%20ON%20TWITTER&style=for-the-badge" alt="Kory Kaai's Twitter"/>
-  </a>
-  <a href="https://korykaai.com">
-    <img src="https://img.shields.io/website?down_color=grey&down_message=Oh%20no%20its%20down.&label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Fkorykaai.com" alt="Kory's Portfolio"/>
-  </a>
-</p>
+My work focuses on turning business needs into practical technology solutions through requirements gathering, stakeholder coordination, milestone tracking, implementation support, testing coordination, technical documentation, and process improvement.
 
-- 🔭 I’m currently working on [Veteran One Up](https://veteranoneup.com/)
+## Professional Focus
 
-- 👨‍💻 All of my projects are available at [www.korykaai.com](www.korykaai.com)
+* Technical Project Management
+* IT Project Management
+* Systems Implementation
+* Business Systems Delivery
+* Requirements Gathering
+* Project Scheduling
+* Milestone Tracking
+* Stakeholder Coordination
+* Vendor Coordination
+* Risk Identification
+* Issue Tracking
+* Testing Coordination
+* Implementation Support
+* Technical Documentation
+* Status Reporting
+* Process Improvement
 
-- 📫 How to reach me? DM me on Twitter [twitter.com/korykaai](twitter.com/korykaai).
+## Technical Areas
 
-- ⚡ Fun fact **I make a great pizza!**
+* Web applications and SaaS platforms
+* Business systems and workflow tools
+* Cloud-hosted applications
+* Client-facing technology delivery
+* User access and system configuration
+* Application support and troubleshooting
+* Production support and maintenance
+* Workflow improvement and automation
+* Federal web operations
+* Finance technology operations
+* Healthcare operations support
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/korykaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="korykaai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/korykaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="korykaai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kory_kaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kory_kaai" height="30" width="40" /></a>
-</p>
+## Tools & Platforms
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+* Microsoft Excel
+* PowerPoint
+* Microsoft Office
+* Google Workspace
+* Jira
+* Trello
+* Asana
+* GitHub
+* AWS
+* Google Cloud
+* Firebase
+* Cloudflare
+* Vercel
+
+## Project Delivery Experience
+
+I have supported and delivered projects involving:
+
+* Scope definition and requirements gathering
+* Project task tracking and milestone planning
+* Website, application, and SaaS implementation
+* Testing coordination and quality review
+* Deployment support and post-launch maintenance
+* Client communication and stakeholder updates
+* Issue tracking and troubleshooting
+* Technical documentation and support procedures
+* Workflow improvement and operational process changes
+
+## Featured Projects
+
+### MutuoItalia
+
+Mortgage-focused platform with comparison tools, financial resources, and guided workflows for real estate finance users.
+
+**Project focus:** finance technology, user workflows, platform delivery, business process support
+
+**Role:** Technical Project Manager / Technology Lead
+
+**Project work included:**
+
+* Defined platform scope and user workflow needs
+* Supported planning for comparison tools and financial resource pages
+* Coordinated website and application delivery tasks
+* Reviewed user-facing content, navigation, and workflow logic
+* Supported deployment, testing, and post-launch updates
+
+### VeteranOneUp
+
+Veteran-focused benefits and financial readiness platform with tools for budgeting, debt tracking, benefit education, financial goal planning, and resource navigation.
+
+**Project focus:** user-centered platform planning, financial readiness tools, veteran resource navigation
+
+**Role:** Technical Project Manager / Product Builder
+
+**Project work included:**
+
+* Defined platform goals and user needs for veterans and military families
+* Planned tools for budgeting, debt tracking, benefits education, and financial goals
+* Organized feature scope and user workflows
+* Supported technical planning, implementation, and documentation
+* Created a structure for future platform growth and resource expansion
+
+### ClientsDock
+
+Client portal concept designed to help freelancers and agencies manage client communication, project visibility, files, and follow-ups.
+
+**Project focus:** client-facing workflow tools, project visibility, no-login user experience, business process improvement
+
+**Role:** Technical Project Manager / SaaS Builder
+
+**Project work included:**
+
+* Defined the product concept and target user needs
+* Planned client portal workflows and user experience
+* Organized feature scope around project visibility, file sharing, and follow-ups
+* Supported technical planning for a simple client-facing delivery system
+* Focused on reducing client communication friction and improving project tracking
+
+### JoltReview
+
+Review management platform concept built around QR-code routing, private feedback capture, dashboard reporting, and AI-assisted review insights.
+
+**Project focus:** SaaS planning, customer feedback workflow, dashboard requirements, business process automation
+
+**Role:** Technical Project Manager / SaaS Builder
+
+**Project work included:**
+
+* Defined product workflow for review requests and feedback collection
+* Planned dashboard reporting and customer feedback tracking
+* Organized feature scope for QR routing, private feedback, and review insights
+* Supported technical planning for automation and user-facing workflows
+* Focused on helping businesses collect, manage, and understand customer feedback
+
+## Project Management Approach
+
+I focus on clear requirements, realistic milestones, practical implementation, and strong communication between business users, technical teams, and stakeholders.
+
+My approach includes:
+
+1. Understand the business problem
+2. Define scope and project goals
+3. Gather requirements from stakeholders
+4. Break work into clear tasks and milestones
+5. Track issues, risks, and dependencies
+6. Coordinate testing and quality review
+7. Support deployment and post-launch updates
+8. Document systems, workflows, and support steps
+9. Improve processes based on user and stakeholder feedback
+
+## Example Project Documentation
+
+I use practical documentation to keep technical projects organized and easy to execute.
+
+Common project documents include:
+
+* Project charter
+* Requirements tracker
+* Stakeholder list
+* Risk and issue log
+* Milestone tracker
+* Testing checklist
+* Deployment checklist
+* Status report
+* Post-launch support notes
+* Lessons learned summary
+
+## Sample Project Charter Format
+
+```markdown
+# Project Charter
+
+## Project Name
+
+## Business Need
+Describe the problem this project solves.
+
+## Project Goal
+Describe the outcome the project should deliver.
+
+## Scope
+### In Scope
+- Item 1
+- Item 2
+- Item 3
+
+### Out of Scope
+- Item 1
+- Item 2
+
+## Stakeholders
+- Business owner:
+- Technical owner:
+- End users:
+- Vendors:
+- Reviewers:
+
+## Milestones
+| Milestone | Target Date | Owner | Status |
+|---|---:|---|---|
+| Requirements complete | TBD | TBD | Not started |
+| Design approved | TBD | TBD | Not started |
+| Development complete | TBD | TBD | Not started |
+| Testing complete | TBD | TBD | Not started |
+| Launch | TBD | TBD | Not started |
+
+## Risks
+| Risk | Impact | Mitigation | Owner |
+|---|---|---|---|
+| TBD | TBD | TBD | TBD |
+
+## Success Criteria
+- Requirement 1
+- Requirement 2
+- Requirement 3
+```
+
+## Sample Status Report Format
+
+```markdown
+# Weekly Project Status Report
+
+## Project Name
+
+## Overall Status
+Green / Yellow / Red
+
+## Summary
+Brief update on project progress.
+
+## Completed This Week
+- Item 1
+- Item 2
+- Item 3
+
+## Planned Next Week
+- Item 1
+- Item 2
+- Item 3
+
+## Risks and Issues
+| Item | Type | Impact | Owner | Status |
+|---|---|---|---|---|
+| TBD | Risk / Issue | TBD | TBD | Open |
+
+## Decisions Needed
+- Decision 1
+- Decision 2
+
+## Upcoming Milestones
+| Milestone | Date | Status |
+|---|---:|---|
+| TBD | TBD | TBD |
+```
+
+## Sample Testing Checklist Format
+
+```markdown
+# Testing Checklist
+
+## Project Name
+
+## Test Areas
+
+### Access and Login
+- [ ] User can access the system
+- [ ] User permissions work correctly
+- [ ] Unauthorized users are restricted
+
+### Core Features
+- [ ] Main workflow works as expected
+- [ ] Forms submit correctly
+- [ ] Data saves correctly
+- [ ] Notifications or confirmations appear correctly
+
+### Content and User Experience
+- [ ] Page content is accurate
+- [ ] Navigation is clear
+- [ ] Buttons and links work
+- [ ] Mobile view works correctly
+
+### Performance and Reliability
+- [ ] Pages load within acceptable time
+- [ ] No critical errors appear
+- [ ] System works after deployment
+
+### Approval
+- [ ] Business owner reviewed
+- [ ] Technical owner reviewed
+- [ ] Issues resolved
+- [ ] Ready for launch
+```
+
+## Background
+
+* U.S. Army veteran with leadership experience across healthcare operations, IT support, and mission-driven environments
+* Experience supporting federal digital media and enterprise web systems
+* Experience leading technology operations for finance and real estate investment workflows
+* Experience delivering websites, web applications, SaaS platforms, and business systems for B2B clients
+* Bachelor of Science in Business Administration
+* Fluent in Italian
+
+## Contact
+
+* Portfolio: [korykaai.com](https://korykaai.com)
+* GitHub: [github.com/kory-kaai](https://github.com/kory-kaai)
+* LinkedIn: [linkedin.com/in/korykaai](https://linkedin.com/in/korykaai)
