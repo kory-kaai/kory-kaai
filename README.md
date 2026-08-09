@@ -1,13 +1,19 @@
-# Kory Kaai
+<p align="center">
+  <strong>Kory Kaai</strong><br/>
+  Technical PM · systems implementation · open-source tools for indie hackers
+</p>
 
-Technical PM building open-source tools for indie hackers and SaaS founders.
+<p align="center">
+  <a href="https://korykaai.com">Portfolio</a> ·
+  <a href="https://linkedin.com/in/korykaai">LinkedIn</a> ·
+  <a href="https://x.com/korykaai">X</a>
+</p>
 
-**Building:** [Monetready](https://github.com/kory-kaai/monetready) — revenue readiness for dev tools  
-**Portfolio:** [korykaai.com](https://www.korykaai.com) · [LinkedIn](https://linkedin.com/in/korykaai)
+---
 
-## Pinned projects
-- **Monetready** — score, playbooks, launch automation for SaaS
-- **collab-kit** — GitHub team workflows in one command
-- **Systems Implementation Playbook** — delivery frameworks
+I turn business needs into shipped systems — and I build tools that help founders do the same.
 
-U.S. Army veteran · BS Business Administration · Fluent in Italian
+**Now building:** [Monetready](https://github.com/kory-kaai/monetready) — the open-source product forge. Score your SaaS revenue readiness, run lifecycle playbooks, and launch from one spec.
+
+```bash
+npx create-monetready my-saas
