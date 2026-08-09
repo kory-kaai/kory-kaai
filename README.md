@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:fb923c&height=130&section=header&text=Indie%20Hacker%20%26%20Technical%20PM&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" alt="Indie Hacker and Technical PM" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:fb923c&height=130&section=header&text=Indie%20Hacker%20%C2%B7%20Technical%20PM&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" alt="Indie Hacker · Technical PM" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
