@@ -57,6 +57,9 @@ npx @korykaai/shipkit ship --minor --yes
   <a href="https://github.com/kory-kaai/collab-kit">
     <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=radical&hide_border=true&border_radius=12" alt="collab-kit" />
   </a>
+  <a href="https://github.com/kory-kaai/shipkit">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=shipkit&theme=radical&hide_border=true&border_radius=12" alt="shipkit" />
+  </a>
 </p>
 
 ---
