@@ -44,10 +44,10 @@ npx @korykaai/collab-kit init
 
 <p align="center">
   <a href="https://github.com/kory-kaai/monetready">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kory-kaai&repo=monetready&theme=radical&hide_border=true&border_radius=12" alt="monetready" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kory-kaai&repo=monetready&theme=radical&hide_border=true&border_radius=12" alt="monetready" />
   </a>
   <a href="https://github.com/kory-kaai/collab-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=radical&hide_border=true&border_radius=12" alt="collab-kit" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=radical&hide_border=true&border_radius=12" alt="collab-kit" />
   </a>
 </p>
 
@@ -56,13 +56,12 @@ npx @korykaai/collab-kit init
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kory-kaai&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kory-kaai&theme=radical&hide_border=true" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kory-kaai&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=kory-kaai&theme=radical&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kory-kaai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kory-kaai&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kory-kaai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="170" />
 </p>
 
 ---
@@ -95,9 +94,9 @@ U.S. Army veteran · BS Business Administration · Fluent in Italian
 ### Contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kory-kaai/kory-kaai/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kory-kaai/kory-kaai/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kory-kaai/kory-kaai/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kory-kaai/kory-kaai/main/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kory-kaai/kory-kaai/main/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kory-kaai/kory-kaai/main/output/snake.svg" />
 </picture>
 
 ---
