@@ -44,10 +44,10 @@ npx @korykaai/collab-kit init
 
 <p align="center">
   <a href="https://github.com/kory-kaai/monetready">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kory-kaai&repo=monetready&theme=radical&hide_border=true&border_radius=12" alt="monetready" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=monetready&theme=radical&hide_border=true&border_radius=12" alt="monetready" />
   </a>
   <a href="https://github.com/kory-kaai/collab-kit">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=radical&hide_border=true&border_radius=12" alt="collab-kit" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=radical&hide_border=true&border_radius=12" alt="collab-kit" />
   </a>
 </p>
 
@@ -56,12 +56,12 @@ npx @korykaai/collab-kit init
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kory-kaai&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-lac.vercel.app/api?username=kory-kaai&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats" height="170" />
   <img src="https://streak-stats.demolab.com/?user=kory-kaai&theme=radical&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kory-kaai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats-sigma-lac.vercel.app/api/top-langs/?username=kory-kaai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="170" />
 </p>
 
 ---
