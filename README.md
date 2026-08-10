@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/kory-kaai/monetready"><strong>Monetready</strong></a> ·
   <a href="https://github.com/kory-kaai/collab-kit"><strong>collab-kit</strong></a> ·
+  <a href="https://github.com/kory-kaai/shipkit"><strong>shipkit</strong></a> ·
   <a href="https://monetready.com">monetready.com</a> ·
   <a href="https://korykaai.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/korykaai">LinkedIn</a> ·
@@ -19,6 +20,7 @@
   <a href="https://github.com/kory-kaai?tab=followers"><img src="https://img.shields.io/github/followers/kory-kaai?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>
   <a href="https://github.com/kory-kaai/monetready/stargazers"><img src="https://img.shields.io/github/stars/kory-kaai/monetready?style=for-the-badge&logo=github&label=Monetready&color=f97316" alt="Monetready stars" /></a>
   <a href="https://github.com/kory-kaai/collab-kit/stargazers"><img src="https://img.shields.io/github/stars/kory-kaai/collab-kit?style=for-the-badge&logo=github&label=collab-kit&color=ea580c" alt="collab-kit stars" /></a>
+  <a href="https://github.com/kory-kaai/shipkit/stargazers"><img src="https://img.shields.io/github/stars/kory-kaai/shipkit?style=for-the-badge&logo=github&label=shipkit&color=dc2626" alt="shipkit stars" /></a>
 </p>
 
 ---
@@ -36,6 +38,12 @@ npx monetready-cli score
 
 ```bash
 npx @korykaai/collab-kit init
+```
+
+**[shipkit](https://github.com/kory-kaai/shipkit)** — ship OSS releases: preflight, changelog, GitHub release, and npm publish.
+
+```bash
+npx @korykaai/shipkit ship --minor --yes
 ```
 
 ---
@@ -72,6 +80,7 @@ npx @korykaai/collab-kit init
 | :-- | :-- |
 | [**Monetready**](https://github.com/kory-kaai/monetready) | Monetready Score · revenue playbooks · launch automation |
 | [**collab-kit**](https://github.com/kory-kaai/collab-kit) | PR templates, CI, git hooks, and team docs in one command |
+| [**shipkit**](https://github.com/kory-kaai/shipkit) | Safe OSS releases — changelog, tag, GitHub release, npm publish |
 | [**Systems Implementation Playbook**](https://github.com/kory-kaai/Systems-Implementation-Playbook) | Delivery frameworks for implementation work |
 | [**Portfolio**](https://github.com/kory-kaai/technical-project-manager-portfolio) | Selected technical project work |
 
