@@ -2,14 +2,16 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=F97316&center=true&vCenter=true&width=500&lines=Building+Monetready;Revenue+readiness+for+indie+hackers;Technical+PM+%2B+open+source" alt="Building Monetready" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=F97316&center=true&vCenter=true&width=500&lines=Building+Monetready;OSS+toolchain+%2B+collab-kit;Technical+PM+%2B+open+source" alt="Building Monetready" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kory-kaai/monetready"><strong>Monetready</strong></a> ·
   <a href="https://github.com/kory-kaai/collab-kit"><strong>collab-kit</strong></a> ·
-  <a href="https://github.com/kory-kaai/shipkit"><strong>shipkit</strong></a> ·
+  <a href="https://github.com/topdaily-dev/repomark"><strong>repomark</strong></a> ·
+  <a href="https://github.com/topdaily-dev/badgekit"><strong>badgekit</strong></a> ·
+  <a href="https://github.com/topdaily-dev/shipkit"><strong>shipkit</strong></a> ·
   <a href="https://monetready.com">monetready.com</a> ·
   <a href="https://korykaai.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/korykaai">LinkedIn</a> ·
@@ -37,14 +39,19 @@ npx monetready-cli score
 **[collab-kit](https://github.com/kory-kaai/collab-kit)** — PR templates, CI, git hooks, and team docs in one command.
 
 ```bash
-npx @korykaai/collab-kit init
+npx @korykaai/collab-kit init . --oss-toolchain
+collab-kit enable-hooks .
 ```
 
-**[shipkit](https://github.com/kory-kaai/shipkit)** — ship OSS releases: preflight, changelog, GitHub release, and npm publish.
+**OSS toolchain** ([@topdaily-dev](https://github.com/topdaily-dev)) — badges, repo health, and releases:
 
 ```bash
-npx @korykaai/shipkit ship --minor --yes
+npx @topdaily-dev/repomark check .
+npx @topdaily-dev/badgekit row ci npm license --owner YOU --repo YOUR_REPO --npm @scope/pkg
+npx @topdaily-dev/shipkit ship --patch --yes
 ```
+
+See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/main/examples/oss-toolchain.md).
 
 ---
 
@@ -57,8 +64,17 @@ npx @korykaai/shipkit ship --minor --yes
   <a href="https://github.com/kory-kaai/collab-kit">
     <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=radical&hide_border=true&border_radius=12" alt="collab-kit" />
   </a>
-  <a href="https://github.com/kory-kaai/shipkit">
-    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=shipkit&theme=radical&hide_border=true&border_radius=12" alt="shipkit" />
+  <a href="https://github.com/topdaily-dev/repomark">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=repomark&theme=radical&hide_border=true&border_radius=12" alt="repomark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/topdaily-dev/badgekit">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=badgekit&theme=radical&hide_border=true&border_radius=12" alt="badgekit" />
+  </a>
+  <a href="https://github.com/topdaily-dev/shipkit">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=shipkit&theme=radical&hide_border=true&border_radius=12" alt="shipkit" />
   </a>
 </p>
 
@@ -83,7 +99,9 @@ npx @korykaai/shipkit ship --minor --yes
 | :-- | :-- |
 | [**Monetready**](https://github.com/kory-kaai/monetready) | Monetready Score · revenue playbooks · launch automation |
 | [**collab-kit**](https://github.com/kory-kaai/collab-kit) | PR templates, CI, git hooks, and team docs in one command |
-| [**shipkit**](https://github.com/kory-kaai/shipkit) | Safe OSS releases — changelog, tag, GitHub release, npm publish |
+| [**repomark**](https://github.com/topdaily-dev/repomark) | OSS repo health score + safe scaffolding |
+| [**badgekit**](https://github.com/topdaily-dev/badgekit) | shields.io README badge rows from the terminal |
+| [**shipkit**](https://github.com/topdaily-dev/shipkit) | Safe OSS releases — changelog, tag, GitHub release, npm publish |
 | [**Systems Implementation Playbook**](https://github.com/kory-kaai/Systems-Implementation-Playbook) | Delivery frameworks for implementation work |
 | [**Portfolio**](https://github.com/kory-kaai/technical-project-manager-portfolio) | Selected technical project work |
 
