@@ -20,7 +20,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=kory-kaai&theme=radical&hide_border=true&disable_animations=true
+          options: "user=kory-kaai&theme=radical&hide_border=true&disable_animations=true"
           path: output/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
