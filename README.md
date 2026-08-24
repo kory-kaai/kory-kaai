@@ -58,23 +58,29 @@ See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/mai
 ### Featured repos
 
 <p align="center">
-  <a href="https://github.com/kory-kaai/monetready">
-    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=monetready&theme=radical&hide_border=true&border_radius=12" alt="monetready" />
-  </a>
   <a href="https://github.com/kory-kaai/collab-kit">
     <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=radical&hide_border=true&border_radius=12" alt="collab-kit" />
   </a>
-  <a href="https://github.com/topdaily-dev/repomark">
-    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=repomark&theme=radical&hide_border=true&border_radius=12" alt="repomark" />
+  <a href="https://github.com/kory-kaai/repomark">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=repomark&theme=radical&hide_border=true&border_radius=12" alt="repomark" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/topdaily-dev/badgekit">
-    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=badgekit&theme=radical&hide_border=true&border_radius=12" alt="badgekit" />
+  <a href="https://github.com/kory-kaai/badgekit">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=badgekit&theme=radical&hide_border=true&border_radius=12" alt="badgekit" />
   </a>
-  <a href="https://github.com/topdaily-dev/shipkit">
-    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=shipkit&theme=radical&hide_border=true&border_radius=12" alt="shipkit" />
+  <a href="https://github.com/kory-kaai/shipkit">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=shipkit&theme=radical&hide_border=true&border_radius=12" alt="shipkit" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kory-kaai/repomark-action">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=repomark-action&theme=radical&hide_border=true&border_radius=12" alt="repomark-action" />
+  </a>
+  <a href="https://github.com/kory-kaai/monetready">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=monetready&theme=radical&hide_border=true&border_radius=12" alt="monetready" />
   </a>
 </p>
 
