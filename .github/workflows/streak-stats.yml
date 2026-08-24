@@ -1,0 +1,32 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - .github/workflows/streak-stats.yml
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=kory-kaai&theme=radical&hide_border=true&disable_animations=true
+          path: output/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          author_name: kory-kaai
+          author_email: 69431357+kory-kaai@users.noreply.github.com
+          message: chore: update streak stats svg
+          add: output/streak.svg

@@ -89,8 +89,8 @@ See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/mai
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-lac.vercel.app/api?username=kory-kaai&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=kory-kaai&theme=radical&hide_border=true" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-stats-sigma-lac.vercel.app/api?username=kory-kaai&show_icons=true&theme=radical&hide_border=true&count_private=false" alt="GitHub stats" height="170" />
+  <img src="./output/streak.svg" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
