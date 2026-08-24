@@ -21,15 +21,22 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish snake to output folder
+      - name: Publish snake and streak to output folder
         run: |
           mkdir -p output
           cp dist/snake.svg output/snake.svg
           cp dist/snake-dark.svg output/snake-dark.svg
+          curl -fsSL \
+            "https://github-readme-streak-stats-eight.vercel.app/?user=kory-kaai&theme=radical&hide_border=true&disable_animations=true" \
+            -o output/streak.svg
+          if grep -q "Failed to retrieve" output/streak.svg; then
+            echo "streak provider returned an error page"
+            exit 1
+          fi
 
       - uses: EndBug/add-and-commit@v9
         with:
           author_name: kory-kaai
           author_email: 69431357+kory-kaai@users.noreply.github.com
-          message: "chore: update contribution snake"
+          message: "chore: update contribution snake and streak stats"
           add: output
