@@ -29,41 +29,6 @@
 
 ---
 
-### Building now
-
-**[cn-lint](https://github.com/kory-kaai/cn-lint)** — reports the Tailwind class that `cn()` deletes, and the class that won.
-
-```bash
-npm install -D github:kory-kaai/cn-lint
-npx cn-lint src
-```
-
-**[Monetready](https://github.com/kory-kaai/monetready)** — the open-source product forge. Score SaaS revenue readiness, run lifecycle playbooks, and launch from one spec.
-
-```bash
-npx create-monetready my-saas
-npx monetready-cli score
-```
-
-**[collab-kit](https://github.com/kory-kaai/collab-kit)** — PR templates, CI, git hooks, and team docs in one command.
-
-```bash
-npx @korykaai/collab-kit init . --oss-toolchain
-collab-kit enable-hooks .
-```
-
-**OSS toolchain** ([@topdaily-dev](https://github.com/topdaily-dev)) — badges, repo health, and releases:
-
-```bash
-npx @topdaily-dev/repomark check .
-npx @topdaily-dev/badgekit row ci npm license --owner YOU --repo YOUR_REPO --npm @scope/pkg
-npx @topdaily-dev/shipkit ship --patch --yes
-```
-
-See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/main/examples/oss-toolchain.md).
-
----
-
 <h2 align="center">Merged upstream</h2>
 
 <p align="center">
@@ -101,6 +66,41 @@ Approved and merged
 </td>
 </tr>
 </table>
+
+---
+
+### Building now
+
+**[cn-lint](https://github.com/kory-kaai/cn-lint)** — reports the Tailwind class that `cn()` deletes, and the class that won.
+
+```bash
+npm install -D github:kory-kaai/cn-lint
+npx cn-lint src
+```
+
+**[Monetready](https://github.com/kory-kaai/monetready)** — the open-source product forge. Score SaaS revenue readiness, run lifecycle playbooks, and launch from one spec.
+
+```bash
+npx create-monetready my-saas
+npx monetready-cli score
+```
+
+**[collab-kit](https://github.com/kory-kaai/collab-kit)** — PR templates, CI, git hooks, and team docs in one command.
+
+```bash
+npx @korykaai/collab-kit init . --oss-toolchain
+collab-kit enable-hooks .
+```
+
+**OSS toolchain** ([@topdaily-dev](https://github.com/topdaily-dev)) — badges, repo health, and releases:
+
+```bash
+npx @topdaily-dev/repomark check .
+npx @topdaily-dev/badgekit row ci npm license --owner YOU --repo YOUR_REPO --npm @scope/pkg
+npx @topdaily-dev/shipkit ship --patch --yes
+```
+
+See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/main/examples/oss-toolchain.md).
 
 ---
 
