@@ -2,11 +2,12 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=F97316&center=true&vCenter=true&width=500&lines=Building+Monetready;OSS+toolchain+%2B+collab-kit;Technical+PM+%2B+open+source" alt="Building Monetready" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=F97316&center=true&vCenter=true&width=500&lines=cn-lint;Building+Monetready;OSS+toolchain+%2B+collab-kit;Technical+PM+%2B+open+source" alt="Building Monetready" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/kory-kaai/cn-lint"><strong>cn-lint</strong></a> ·
   <a href="https://github.com/kory-kaai/monetready"><strong>Monetready</strong></a> ·
   <a href="https://github.com/kory-kaai/collab-kit"><strong>collab-kit</strong></a> ·
   <a href="https://github.com/topdaily-dev/repomark"><strong>repomark</strong></a> ·
@@ -20,6 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/kory-kaai?tab=followers"><img src="https://img.shields.io/github/followers/kory-kaai?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>
+  <a href="https://github.com/kory-kaai/cn-lint/stargazers"><img src="https://img.shields.io/github/stars/kory-kaai/cn-lint?style=for-the-badge&logo=github&label=cn-lint&color=c2410c" alt="cn-lint stars" /></a>
   <a href="https://github.com/kory-kaai/monetready/stargazers"><img src="https://img.shields.io/github/stars/kory-kaai/monetready?style=for-the-badge&logo=github&label=Monetready&color=f97316" alt="Monetready stars" /></a>
   <a href="https://github.com/kory-kaai/collab-kit/stargazers"><img src="https://img.shields.io/github/stars/kory-kaai/collab-kit?style=for-the-badge&logo=github&label=collab-kit&color=ea580c" alt="collab-kit stars" /></a>
   <a href="https://github.com/kory-kaai/shipkit/stargazers"><img src="https://img.shields.io/github/stars/kory-kaai/shipkit?style=for-the-badge&logo=github&label=shipkit&color=dc2626" alt="shipkit stars" /></a>
@@ -28,6 +30,13 @@
 ---
 
 ### Building now
+
+**[cn-lint](https://github.com/kory-kaai/cn-lint)** — reports the Tailwind class that `cn()` deletes, and the class that won.
+
+```bash
+npm install -D github:kory-kaai/cn-lint
+npx cn-lint src
+```
 
 **[Monetready](https://github.com/kory-kaai/monetready)** — the open-source product forge. Score SaaS revenue readiness, run lifecycle playbooks, and launch from one spec.
 
@@ -56,6 +65,12 @@ See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/mai
 ---
 
 ### Featured repos
+
+<p align="center">
+  <a href="https://github.com/kory-kaai/cn-lint">
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=cn-lint&theme=radical&hide_border=true&border_radius=12" alt="cn-lint" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/kory-kaai/collab-kit">
@@ -103,6 +118,7 @@ See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/mai
 
 | | |
 | :-- | :-- |
+| [**cn-lint**](https://github.com/kory-kaai/cn-lint) | Reports Tailwind classes that `cn()` and `twMerge()` silently drop |
 | [**Monetready**](https://github.com/kory-kaai/monetready) | Monetready Score · revenue playbooks · launch automation |
 | [**collab-kit**](https://github.com/kory-kaai/collab-kit) | PR templates, CI, git hooks, and team docs in one command |
 | [**repomark**](https://github.com/topdaily-dev/repomark) | OSS repo health score + safe scaffolding |
