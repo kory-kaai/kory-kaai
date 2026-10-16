@@ -64,6 +64,20 @@ See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/mai
 
 ---
 
+### Merged upstream
+
+> nice contribution! thank you
+>
+> [Scott Motte](https://github.com/motdotla/dotenv/pull/1075#issuecomment-6224592992), on [dotenv](https://github.com/motdotla/dotenv/pull/1075). Tests for the fast parser.
+
+> This was fast @kory-kaai! Great work!
+>
+> [Ulises Gascón](https://github.com/expressjs/multer/pull/1454#pullrequestreview-5010332788), on [multer](https://github.com/expressjs/multer/pull/1454). Coverage for `preservePath`.
+
+[React Hook Form](https://github.com/react-hook-form/react-hook-form/pull/13821) merged the `safeJSON` tests. [Bill](https://github.com/react-hook-form/react-hook-form/pull/13821#pullrequestreview-5396939478) approved the pull request.
+
+---
+
 ### Featured repos
 
 <p align="center">
