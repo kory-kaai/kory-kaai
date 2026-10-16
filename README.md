@@ -64,17 +64,43 @@ See [examples/oss-toolchain.md](https://github.com/kory-kaai/collab-kit/blob/mai
 
 ---
 
-### Merged upstream
+<h2 align="center">Merged upstream</h2>
 
-> nice contribution! thank you
->
-> [Scott Motte](https://github.com/motdotla/dotenv/pull/1075#issuecomment-6224592992), on [dotenv](https://github.com/motdotla/dotenv/pull/1075). Tests for the fast parser.
+<p align="center">
+  Three pull requests, merged by the people who maintain the projects.
+</p>
 
-> This was fast @kory-kaai! Great work!
->
-> [Ulises Gascón](https://github.com/expressjs/multer/pull/1454#pullrequestreview-5010332788), on [multer](https://github.com/expressjs/multer/pull/1454). Coverage for `preservePath`.
-
-[React Hook Form](https://github.com/react-hook-form/react-hook-form/pull/13821) merged the `safeJSON` tests. [Bill](https://github.com/react-hook-form/react-hook-form/pull/13821#pullrequestreview-5396939478) approved the pull request.
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/motdotla/dotenv/pull/1075"><img alt="dotenv merged" src="https://img.shields.io/badge/dotenv-merged-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" /></a>
+<br /><br />
+<em>nice contribution! thank you</em>
+<br /><br />
+<a href="https://github.com/motdotla/dotenv/pull/1075#issuecomment-6224592992"><strong>Scott Motte</strong></a>
+<br />
+<sub>fast parser tests</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/expressjs/multer/pull/1454"><img alt="multer merged" src="https://img.shields.io/badge/multer-merged-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+<br /><br />
+<em>This was fast @kory-kaai! Great work!</em>
+<br /><br />
+<a href="https://github.com/expressjs/multer/pull/1454#pullrequestreview-5010332788"><strong>Ulises Gascón</strong></a>
+<br />
+<sub>preservePath coverage</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/react-hook-form/react-hook-form/pull/13821"><img alt="React Hook Form merged" src="https://img.shields.io/badge/React%20Hook%20Form-merged-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" /></a>
+<br /><br />
+Approved and merged
+<br /><br />
+<a href="https://github.com/react-hook-form/react-hook-form/pull/13821#pullrequestreview-5396939478"><strong>Bill</strong></a>
+<br />
+<sub>safeJSON tests</sub>
+</td>
+</tr>
+</table>
 
 ---
 
